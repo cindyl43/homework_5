@@ -68,25 +68,24 @@
 }
 
 
-label {
+.label {
     font-family: 'monospace';
     font-size: 20px;
     color: black;
     padding: 10px;
     text-align: center;
-    display:  inline;
-
+    display: inline-block;
+    margin: 0 auto;
 }
 
-.products {
-  text-align: right;
-  width: 70%;
-}
 
 .products {
-  display:  block;
+  text-align: center;
+  display:  inline-block;
+  position: relative;
+  left: 20%;
   margin-left: auto;
   margin-right: auto;
+  width: 70%;
 }
-
 
