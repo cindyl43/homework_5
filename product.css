@@ -69,31 +69,62 @@
 
 .discription {
     position: absolute;
-    top:28%;
+    top:25%;
     left:60%;
+    padding-right: 100px;
 
 }
 
 .head1 {
     position: absolute;
-    top: 65%;
+    top: 50%;
     left: 60%;
     font-size: 20px;
 }
 
+#color {
+    position: absolute;
+    top: 55%;
+    left: 60%;
+}
+
+
 .head2 {
+    position: absolute;
+    top: 62%;
+    left: 60%;
+    font-size: 20px;
+}
+
+
+#filling {
+    position: absolute;
+    top: 67%;
+    left: 60%;
+}
+
+.head3 {
     position: absolute;
     top: 75%;
     left: 60%;
     font-size: 20px;
 }
 
-.head3 {
+
+#quantity {
     position: absolute;
-    top: 85%;
-    left: 60%;
-    font-size: 20px;
+    top: 75%;
+    left: 66%;
 }
+
+
+#add {
+    position: absolute;
+    top: 74%;
+    left: 74%;
+}
+
+
 
 
 
