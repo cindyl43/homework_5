@@ -67,6 +67,54 @@
   display: table;
 }
 
+#sorting {
+    position: absolute;
+    top: 200px;
+    left: 76%;
+}
+
+#sort {
+    position: absolute;
+    top: 200px;
+    left: 81%;
+}
+
+#page {
+    position: absolute;
+    top: 270px;
+    left: 3%;
+    font-size: 25px;
+    font-weight:  bold;
+}
+
+#filter1 {
+    position: absolute;
+    top: 320px;
+    left: 3%;
+    font-size: 20px;
+}
+
+#filterpic1 {
+    position: absolute;
+    top: 360px;
+    left: 3%;
+}
+
+#filter2 {
+    position: absolute;
+    top: 555px;
+    left: 3%;
+    font-size: 20px;
+}
+
+
+
+#filterpic2 {
+    position: absolute;
+    top: 595px;
+    left: 3%;
+}
+
 #info {
     font-family: 'monospace';
     font-size: 20px;
